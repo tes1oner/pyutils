@@ -1,0 +1,8 @@
+*.pyc
+tests
+notes
+*.db
+*.sqlite
+setup.py
+install.py
+bin
